@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/mylibrari/url-shortening-service.git
+git clone https://github.com/logiccon/realtime-link-shortener
 cd url-shortening-service
 ```
 
